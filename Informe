@@ -1,0 +1,83 @@
+# Análisis del Consumo Cultural en Argentina (2017–2022)
+
+**Fuente:** Encuesta nacional  
+**Volumen de datos:** +200.000 registros  
+**Herramientas:** Power BI, Power Query, DAX.
+
+---
+
+## 1. Hallazgos principales
+
+El consumo cultural reciente en Argentina se encuentra altamente concentrado por género y territorio, con predominio del género femenino y una fuerte centralización en la provincia de Buenos Aires. Sin embargo, al analizar el comportamiento por provincia, emergen diferencias relevantes que no siempre se explican por el nivel de desarrollo económico o el perfil turístico de cada región.
+
+Si bien el volumen absoluto de consumo es bajo, casi la mitad de las provincias se ubican por encima del promedio nacional, lo que indica que el consumo cultural no es homogéneo, sino territorialmente desigual.
+
+---
+
+## 2. Perfil demográfico y consumo cultural reciente
+
+Del total analizado, la mayoría de las personas encuestadas son mujeres (169.206 casos). Dentro de este grupo, la provincia de Buenos Aires concentra el mayor número absoluto (66.055), aunque solo 753 mujeres cumplen con el parámetro de consumo cultural reciente (participación en actividades como libros, museos, talleres artísticos, teatro, cine o conciertos en los últimos seis meses).
+
+Este patrón se observa también en otras provincias:
+
+- **Córdoba:** 124 casos que cumplen el parámetro  
+- **Chaco:** 206 casos, con una intensidad relativa destacable  
+- **Río Negro:** 29 casos, con niveles muy bajos  
+- **Mendoza:** 84 casos  
+
+En el caso de los varones (34.497 casos), los niveles de consumo son menores: solo 611 cumplen el parámetro, frente a 707 que no lo hacen. Las otras identidades de género presentan valores absolutos bajos, aunque con participación proporcionalmente relevante, condicionada por el tamaño muestral.
+
+---
+
+## 3. Estadística descriptiva: promedio y dispersión
+
+A nivel nacional, el promedio de cumplimiento del parámetro de consumo cultural reciente es de **3,7**. Provincias como Buenos Aires, Chaco, Tucumán, Santa Fe, Córdoba, Misiones, Corrientes, Salta, Jujuy, Entre Ríos y Santiago del Estero superan este valor.
+
+Esto implica que prácticamente la mitad del país se ubica por encima del promedio nacional.
+
+No obstante, la desviación estándar es muy alta, lo que indica una fuerte dispersión entre provincias. Aunque muchas jurisdicciones presentan comportamientos similares, existen casos atípicos que se alejan del patrón general. En particular, la provincia de Buenos Aires aparece como un valor fuera de lo normal, concentrando población, oferta y consumo cultural en términos absolutos.
+
+En términos simples, el promedio nacional oculta realidades provinciales muy distintas.
+
+---
+
+## 4. Comparativa territorial: consumo local vs consumo turístico
+
+Al comparar provincias con distinto perfil económico y turístico, surge un hallazgo relevante: Chaco, una de las provincias con mayores carencias estructurales, presenta una participación cultural relativa mayor que provincias con fuerte atractivo turístico, como Río Negro.
+
+Esto sugiere que el consumo cultural en Chaco está más asociado a dinámicas locales y comunitarias, mientras que en regiones turísticas el consumo cultural parece depender en mayor medida del visitante y no tanto del residente.
+
+Desde una lógica de planificación de vacaciones basada en datos:
+
+- Provincias como **Chaco o Córdoba** muestran mayor involucramiento cultural de la población local.
+- Regiones como **Río Negro o Mendoza** presentan una oferta cultural más vinculada al turismo tradicional, pero con menor participación de residentes.
+
+---
+
+## 5. Tipos de consumo cultural y patrones generales
+
+El análisis por tipo de actividad muestra una tendencia clara:
+
+- La compra de libros presenta niveles relativamente altos.
+- Las actividades presenciales colectivas (teatro, cine, conciertos) registran altas tasas de no participación.
+- Un dato relevante es que una proporción significativa de la población declara no haber ido nunca al cine.
+
+Estos resultados sugieren una preferencia por consumos individuales y una reducción en la asistencia a actividades culturales presenciales.
+
+---
+
+## 6. Limitaciones del análisis y rol del streaming
+
+Este análisis se limita al consumo cultural presencial. Durante el período estudiado, especialmente entre 2020 y 2022, el consumo de contenidos a través de plataformas de streaming creció de forma significativa.
+
+Hubiera sido relevante incorporar el consumo de streaming como variable adicional, ya que podría explicar parcialmente la baja asistencia a actividades culturales tradicionales. El streaming aparece como un canal emergente que comienza a rivalizar con las formas clásicas de consumo cultural, desplazando parte de la demanda hacia formatos digitales.
+
+---
+
+## 7. Conclusiones
+
+- El consumo cultural en Argentina es bajo en términos generales, pero presenta fuertes diferencias territoriales.
+- El promedio nacional no refleja adecuadamente la heterogeneidad provincial.
+- Provincias con menor desarrollo económico pueden mostrar mayor intensidad cultural relativa que regiones turísticas.
+- La alta desviación estándar confirma la existencia de outliers y comportamientos atípicos.
+- El análisis exclusivamente presencial subestima el consumo real si no se consideran nuevas formas digitales como el streaming.
